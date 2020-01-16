@@ -1,0 +1,5525 @@
+{
+  "data": {
+    "source": "DGFIP / Demande de Valeurs Foncières",
+    "derniere_maj": "2019-10",
+    "licence": "http://data.cquest.org/dgfip_dvf/conditions-generales-dutilisation.pdf",
+    "type": "Featurecollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-06-30",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 105000,
+          "numero_voie": "25",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "151",
+          "lot_2": "69",
+          "surface_lot_2": 72,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-10-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 122200,
+          "numero_voie": "23",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "113",
+          "lot_2": "33",
+          "surface_lot_2": 87.15,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-05-28",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 85000,
+          "numero_voie": "25",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "124",
+          "lot_2": "44",
+          "surface_lot_2": 60.8,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-12-30",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 40000,
+          "numero_voie": "23",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "105",
+          "lot_2": "26",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 36,
+          "nombre_pieces_principales": 1,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-02-24",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 120250,
+          "numero_voie": "27",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "163",
+          "lot_2": "82",
+          "surface_lot_2": 72.32,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-08-29",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 119000,
+          "numero_voie": "29",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "174",
+          "lot_2": "93",
+          "surface_lot_2": 74.85,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 75,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-09-16",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 145000,
+          "numero_voie": "27",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "127",
+          "lot_2": "45",
+          "surface_lot_2": 72.55,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-03-06",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 97000,
+          "numero_voie": "25",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "148",
+          "lot_2": "70",
+          "surface_lot_2": 50.62,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 49,
+          "nombre_pieces_principales": 2,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-09-24",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 90150,
+          "numero_voie": "25",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "146",
+          "lot_2": "68",
+          "surface_lot_2": 47.26,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 49,
+          "nombre_pieces_principales": 2,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-02-12",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 96000,
+          "numero_voie": "25",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "72",
+          "surface_lot_1": 46.92,
+          "nombre_lots": "1",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 49,
+          "nombre_pieces_principales": 2,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-10-20",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 75000,
+          "numero_voie": "31",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "104",
+          "lot_2": "179",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-02-12",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 96000,
+          "numero_voie": "23",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "152",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-03-01",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 104500,
+          "numero_voie": "23",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "137",
+          "lot_2": "60",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-06-20",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 85000,
+          "numero_voie": "27",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "134",
+          "lot_2": "51",
+          "surface_lot_2": 72.41,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-07-26",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 83000,
+          "numero_voie": "29",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "167",
+          "lot_2": "90",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-01-29",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 101350,
+          "numero_voie": "25",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "146",
+          "lot_2": "68",
+          "surface_lot_2": 47.26,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 49,
+          "nombre_pieces_principales": 2,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2019-02-19",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 63000,
+          "numero_voie": "23",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "135",
+          "lot_2": "56",
+          "surface_lot_2": 75,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2019-01-28",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 89010,
+          "numero_voie": "25",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "72",
+          "surface_lot_1": 46.92,
+          "nombre_lots": "1",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 49,
+          "nombre_pieces_principales": 2,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2019-01-28",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 89010,
+          "numero_voie": "23",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "152",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-02-22",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 85000,
+          "numero_voie": "29",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "165",
+          "lot_2": "94",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-02-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 60000,
+          "numero_voie": "25",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "149",
+          "lot_2": "74",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 49,
+          "nombre_pieces_principales": 2,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-06-01",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 169700,
+          "numero_voie": "27",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "130",
+          "lot_2": "50",
+          "surface_lot_2": 105.66,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 102,
+          "nombre_pieces_principales": 6,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-04-06",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 57100,
+          "numero_voie": "23",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "114",
+          "lot_2": "34",
+          "surface_lot_2": 36.76,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 36,
+          "nombre_pieces_principales": 1,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-03-07",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 87000,
+          "numero_voie": "23",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "111",
+          "lot_2": "25",
+          "surface_lot_2": 86.49,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-07-18",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 86000,
+          "numero_voie": "25",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "145",
+          "lot_2": "67",
+          "surface_lot_2": 73.18,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-12-11",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 120000,
+          "numero_voie": "23",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "113",
+          "lot_2": "33",
+          "surface_lot_2": 87.06,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-07-05",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 65000,
+          "numero_voie": "31",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0046",
+          "lot_1": "175",
+          "lot_2": "95",
+          "surface_lot_2": 72,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169155,
+          "lon": 5.718005
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.718005,
+            45.169155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-04-18",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 1,
+          "numero_voie": "117",
+          "type_voie": "RUE",
+          "code_voie": "0300",
+          "voie": "DES ALLIES",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0157",
+          "nombre_lots": "0",
+          "nature_culture": "S",
+          "surface_terrain": 2512,
+          "lat": 45.170075,
+          "lon": 5.717745
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.717745,
+            45.170075
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-04-15",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 385000,
+          "numero_voie": "12",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0118",
+          "nombre_lots": "0",
+          "code_type_local": "4",
+          "type_local": "Local industriel. commercial ou assimilé",
+          "surface_relle_bati": 330,
+          "nombre_pieces_principales": 0,
+          "nature_culture": "S",
+          "surface_terrain": 281,
+          "lat": 45.168574,
+          "lon": 5.720593
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.720593,
+            45.168574
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-04-15",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 385000,
+          "numero_voie": "14",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0117",
+          "nombre_lots": "0",
+          "code_type_local": "4",
+          "type_local": "Local industriel. commercial ou assimilé",
+          "surface_relle_bati": 43,
+          "nombre_pieces_principales": 0,
+          "nature_culture": "S",
+          "surface_terrain": 92,
+          "lat": 45.168572,
+          "lon": 5.720435
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.720435,
+            45.168572
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-04-15",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 385000,
+          "numero_voie": "14",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0117",
+          "nombre_lots": "0",
+          "code_type_local": "4",
+          "type_local": "Local industriel. commercial ou assimilé",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 0,
+          "nature_culture": "S",
+          "surface_terrain": 92,
+          "lat": 45.168572,
+          "lon": 5.720435
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.720435,
+            45.168572
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-09-26",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 230000,
+          "numero_voie": "9",
+          "type_voie": "RUE",
+          "code_voie": "4920",
+          "voie": "MASSENET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0073",
+          "nombre_lots": "0",
+          "code_type_local": "1",
+          "type_local": "Maison",
+          "surface_relle_bati": 66,
+          "nombre_pieces_principales": 3,
+          "nature_culture": "S",
+          "surface_terrain": 305,
+          "lat": 45.168304,
+          "lon": 5.720527
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.720527,
+            45.168304
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-04-11",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 94000,
+          "numero_voie": "17",
+          "type_voie": "RUE",
+          "code_voie": "5945",
+          "voie": "RENE LESAGE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "442",
+          "lot_2": "491",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-06-06",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 130000,
+          "numero_voie": "1",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "546",
+          "lot_2": "609",
+          "surface_lot_2": 61.69,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 68,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-08-22",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 63500,
+          "numero_voie": "1",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "532",
+          "lot_2": "593",
+          "surface_lot_2": 61.57,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 68,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-07-01",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 112400,
+          "numero_voie": "6",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "364",
+          "lot_2": "430",
+          "surface_lot_2": 64.1,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-09-29",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 85500,
+          "numero_voie": "16",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "179",
+          "lot_2": "233",
+          "surface_lot_2": 64.39,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-12-21",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 75000,
+          "numero_voie": "16",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "172",
+          "lot_2": "208",
+          "surface_lot_2": 54.39,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-08-11",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 91500,
+          "numero_voie": "4",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "376",
+          "lot_2": "414",
+          "surface_lot_2": 55.19,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-10-10",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 85000,
+          "numero_voie": "6",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "362",
+          "lot_2": "411",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-07-07",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 92900,
+          "numero_voie": "20",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "157",
+          "lot_2": "253",
+          "surface_lot_2": 64.51,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-07-21",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 74000,
+          "numero_voie": "19",
+          "type_voie": "RUE",
+          "code_voie": "5945",
+          "voie": "RENE LESAGE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "447",
+          "lot_2": "492",
+          "surface_lot_2": 64.21,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-01-09",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 109000,
+          "numero_voie": "22",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "144",
+          "lot_2": "226",
+          "surface_lot_2": 77.22,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2019-03-29",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 73000,
+          "numero_voie": "1",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "519",
+          "lot_2": "572",
+          "surface_lot_2": 61.77,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 68,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-05-29",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 87000,
+          "numero_voie": "23",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "55",
+          "lot_2": "75",
+          "surface_lot_2": 54.77,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-10-12",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 67500,
+          "numero_voie": "20",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "153",
+          "lot_2": "216",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-07-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 101380,
+          "numero_voie": "22",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "150",
+          "lot_2": "215",
+          "surface_lot_2": 54.94,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-12-15",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 91000,
+          "numero_voie": "1",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "542",
+          "lot_2": "589",
+          "surface_lot_2": 61.56,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 68,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-07-24",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 76800,
+          "numero_voie": "27",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "120",
+          "surface_lot_1": 63.77,
+          "lot_2": "87",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-08-01",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 100000,
+          "numero_voie": "1",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "562",
+          "lot_2": "586",
+          "surface_lot_2": 62.06,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 68,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-02-08",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 80000,
+          "numero_voie": "18",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "162",
+          "lot_2": "206",
+          "surface_lot_2": 63.84,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-07-30",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 103500,
+          "numero_voie": "20",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "154",
+          "lot_2": "228",
+          "surface_lot_2": 54.4,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-07-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 20000,
+          "numero_voie": "20",
+          "type_voie": "RUE",
+          "code_voie": "5945",
+          "voie": "RENE LESAGE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "11",
+          "surface_lot_1": 25.65,
+          "nombre_lots": "1",
+          "code_type_local": "4",
+          "type_local": "Local industriel. commercial ou assimilé",
+          "surface_relle_bati": 33,
+          "nombre_pieces_principales": 0,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-07-17",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 87400,
+          "numero_voie": "23",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "52",
+          "lot_2": "82",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-08-27",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 83800,
+          "numero_voie": "4",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "370",
+          "lot_2": "403",
+          "surface_lot_2": 54.87,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-09-10",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 70000,
+          "numero_voie": "25",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "60",
+          "lot_2": "76",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-04-09",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 106500,
+          "numero_voie": "19",
+          "type_voie": "RUE",
+          "code_voie": "5945",
+          "voie": "RENE LESAGE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "449",
+          "lot_2": "506",
+          "surface_lot_2": 58.94,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-06-18",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 65400,
+          "numero_voie": "2",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "384",
+          "lot_2": "435",
+          "surface_lot_2": 64.49,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-09-17",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 90250,
+          "numero_voie": "17",
+          "type_voie": "RUE",
+          "code_voie": "5945",
+          "voie": "RENE LESAGE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "441",
+          "lot_2": "498",
+          "surface_lot_2": 64.31,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-08-22",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 98440,
+          "numero_voie": "25",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "64",
+          "lot_2": "81",
+          "surface_lot_2": 63.7,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-01-26",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 85000,
+          "numero_voie": "9",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "264",
+          "lot_2": "318",
+          "surface_lot_2": 77.8,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-12-28",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 99000,
+          "numero_voie": "31",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "112",
+          "lot_2": "135",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-12-28",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 120835.42,
+          "numero_voie": "31",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "112",
+          "lot_2": "135",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-04-24",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 74000,
+          "numero_voie": "22",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "148",
+          "lot_2": "239",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-07-18",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 94000,
+          "numero_voie": "17",
+          "type_voie": "RUE",
+          "code_voie": "5945",
+          "voie": "RENE LESAGE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "442",
+          "lot_2": "491",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-03-20",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 69000,
+          "numero_voie": "1",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "547",
+          "lot_2": "580",
+          "surface_lot_2": 61.66,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 68,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-08-01",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 87500,
+          "numero_voie": "22",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "149",
+          "lot_2": "227",
+          "surface_lot_2": 54.46,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-10-27",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 78000,
+          "numero_voie": "7",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "276",
+          "lot_2": "336",
+          "surface_lot_2": 54.75,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-12-21",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 90500,
+          "numero_voie": "8",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "355",
+          "lot_2": "428",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-04-25",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 83000,
+          "numero_voie": "14",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "188",
+          "lot_2": "247",
+          "surface_lot_2": 54.42,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-06-18",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 102000,
+          "numero_voie": "18",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "169",
+          "lot_2": "231",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-04-14",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 95000,
+          "numero_voie": "1",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "555",
+          "lot_2": "597",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 68,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-07-16",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 93000,
+          "numero_voie": "6",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "366",
+          "lot_2": "422",
+          "surface_lot_2": 54.42,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-05-16",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 82500,
+          "numero_voie": "20",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "156",
+          "lot_2": "252",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-10-10",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 80000,
+          "numero_voie": "5",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "285",
+          "lot_2": "330",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-02-18",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 72100,
+          "numero_voie": "22",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "147",
+          "lot_2": "251",
+          "surface_lot_2": 55.08,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-08-26",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 83000,
+          "numero_voie": "5",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "287",
+          "lot_2": "339",
+          "surface_lot_2": 54.35,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-11-25",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 147250,
+          "numero_voie": "17",
+          "type_voie": "RUE",
+          "code_voie": "5945",
+          "voie": "RENE LESAGE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "437",
+          "lot_2": "482",
+          "surface_lot_2": 73.75,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-10-07",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 127000,
+          "numero_voie": "23",
+          "type_voie": "RUE",
+          "code_voie": "5945",
+          "voie": "RENE LESAGE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "472",
+          "lot_2": "489",
+          "surface_lot_2": 64.71,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-09-12",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 85000,
+          "numero_voie": "12",
+          "type_voie": "RUE",
+          "code_voie": "0390",
+          "voie": "AMABLE MATUSSIERE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "194",
+          "lot_2": "236",
+          "surface_lot_2": 56.01,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-08-01",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 80000,
+          "numero_voie": "4",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "378",
+          "lot_2": "395",
+          "surface_lot_2": 55,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-02-29",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 105000,
+          "numero_voie": "3",
+          "type_voie": "RUE",
+          "code_voie": "0290",
+          "voie": "ALFRED FREDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0090",
+          "lot_1": "293",
+          "lot_2": "316",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 59,
+          "nombre_pieces_principales": 3,
+          "lat": 45.170847,
+          "lon": 5.719941
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719941,
+            45.170847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000002",
+          "date_mutation": "2018-10-31",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 423695,
+          "numero_voie": "12",
+          "type_voie": "RUE",
+          "code_voie": "0340",
+          "voie": "ALPHONSE DAUDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0098",
+          "nombre_lots": "0",
+          "nature_culture": "S",
+          "surface_terrain": 349,
+          "lat": 45.16867,
+          "lon": 5.71906
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.71906,
+            45.16867
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-06-04",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 319920,
+          "numero_voie": "13",
+          "type_voie": "RUE",
+          "code_voie": "0340",
+          "voie": "ALPHONSE DAUDET",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0094",
+          "nombre_lots": "0",
+          "code_type_local": "1",
+          "type_local": "Maison",
+          "surface_relle_bati": 90,
+          "nombre_pieces_principales": 5,
+          "nature_culture": "S",
+          "surface_terrain": 360,
+          "lat": 45.168457,
+          "lon": 5.719448
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719448,
+            45.168457
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-05-24",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 99500,
+          "numero_voie": "9",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "108",
+          "lot_2": "135",
+          "surface_lot_2": 67.27,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 72,
+          "nombre_pieces_principales": 4,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-09-13",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 85000,
+          "numero_voie": "9",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "113",
+          "lot_2": "127",
+          "surface_lot_2": 65.23,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 72,
+          "nombre_pieces_principales": 4,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-06-08",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 57000,
+          "numero_voie": "11",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "334",
+          "lot_2": "366",
+          "surface_lot_2": 44.69,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 50,
+          "nombre_pieces_principales": 2,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-06-29",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 105000,
+          "numero_voie": "35",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "24",
+          "surface_lot_1": 57.34,
+          "lot_2": "6",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 62,
+          "nombre_pieces_principales": 3,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-08-07",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 138400,
+          "numero_voie": "13",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "203",
+          "lot_2": "231",
+          "surface_lot_2": 82.48,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-01-10",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 83000,
+          "numero_voie": "11",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "331",
+          "lot_2": "344",
+          "surface_lot_2": 42.97,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 50,
+          "nombre_pieces_principales": 2,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-10-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 132000,
+          "numero_voie": "9",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "115",
+          "lot_2": "124",
+          "surface_lot_2": 82.39,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-01-16",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 156900,
+          "numero_voie": "13",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "204",
+          "lot_2": "233",
+          "surface_lot_2": 82.82,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-06-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 69000,
+          "numero_voie": "11",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "320",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-06-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 69000,
+          "numero_voie": "11",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "321",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-12-21",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 108570,
+          "numero_voie": "35",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "21",
+          "lot_2": "42",
+          "surface_lot_2": 67.94,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 72,
+          "nombre_pieces_principales": 4,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-10-25",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 85620,
+          "numero_voie": "11",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "391",
+          "nombre_lots": "1",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 34,
+          "nombre_pieces_principales": 1,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-10-04",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 103000,
+          "numero_voie": "13",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "206",
+          "lot_2": "230",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 72,
+          "nombre_pieces_principales": 4,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-10-25",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 85620,
+          "numero_voie": "11",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "391",
+          "nombre_lots": "1",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 46,
+          "nombre_pieces_principales": 3,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-10-19",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 54500,
+          "numero_voie": "35",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "24",
+          "lot_2": "6",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 62,
+          "nombre_pieces_principales": 3,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-06-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 69000,
+          "numero_voie": "11",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "321",
+          "lot_2": "341",
+          "surface_lot_2": 25.68,
+          "lot_3": "343",
+          "surface_lot_3": 25.5,
+          "nombre_lots": "3",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 54,
+          "nombre_pieces_principales": 2,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-02-21",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 114000,
+          "numero_voie": "9",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "116",
+          "lot_2": "122",
+          "surface_lot_2": 82,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-01-13",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 105000,
+          "numero_voie": "35",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "20",
+          "lot_2": "44",
+          "surface_lot_2": 67.4,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 72,
+          "nombre_pieces_principales": 4,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2019-05-27",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 95000,
+          "numero_voie": "35",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "34",
+          "surface_lot_1": 67.1,
+          "lot_2": "8",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 72,
+          "nombre_pieces_principales": 4,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-11-27",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 108000,
+          "numero_voie": "9",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "107",
+          "lot_2": "129",
+          "surface_lot_2": 66.67,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 72,
+          "nombre_pieces_principales": 4,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-12-08",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 40000,
+          "numero_voie": "11",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "302",
+          "lot_2": "339",
+          "surface_lot_2": 26.77,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 27,
+          "nombre_pieces_principales": 1,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-11-27",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 115000,
+          "numero_voie": "13",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "210",
+          "lot_2": "222",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 72,
+          "nombre_pieces_principales": 4,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-05-26",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 150000,
+          "numero_voie": "9",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "105",
+          "lot_2": "136",
+          "surface_lot_2": 81.24,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-07-20",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 109600,
+          "numero_voie": "35",
+          "type_voie": "CHE",
+          "code_voie": "0360",
+          "voie": "DES ALPINS",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "13",
+          "lot_2": "37",
+          "surface_lot_2": 77.08,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-11-16",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 30000,
+          "numero_voie": "11",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "329",
+          "lot_2": "359",
+          "surface_lot_2": 25.36,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 23,
+          "nombre_pieces_principales": 1,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-07-20",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 86000,
+          "numero_voie": "9",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "102",
+          "lot_2": "130",
+          "surface_lot_2": 81.28,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-07-19",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 76000,
+          "numero_voie": "13",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "209",
+          "lot_2": "220",
+          "surface_lot_2": 66.38,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 72,
+          "nombre_pieces_principales": 4,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-05-02",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 111500,
+          "numero_voie": "13",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "204",
+          "lot_2": "233",
+          "surface_lot_2": 82.82,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 84,
+          "nombre_pieces_principales": 5,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-01-28",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 45000,
+          "numero_voie": "11",
+          "type_voie": "RUE",
+          "code_voie": "4870",
+          "voie": "MARQUIAN",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0091",
+          "lot_1": "335",
+          "lot_2": "355",
+          "surface_lot_2": 25.88,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 27,
+          "nombre_pieces_principales": 1,
+          "lat": 45.171355,
+          "lon": 5.719394
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.719394,
+            45.171355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-09-15",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 13500,
+          "numero_voie": "12",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0101",
+          "nombre_lots": "0",
+          "nature_culture": "S",
+          "surface_terrain": 17,
+          "lat": 45.169427,
+          "lon": 5.722054
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722054,
+            45.169427
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2019-02-01",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 75500,
+          "numero_voie": "12",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0098",
+          "lot_1": "24",
+          "lot_2": "7",
+          "surface_lot_2": 69.11,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 68,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169328,
+          "lon": 5.722128
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722128,
+            45.169328
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-11-28",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 91000,
+          "numero_voie": "12",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0098",
+          "lot_1": "12",
+          "surface_lot_1": 66.11,
+          "lot_2": "23",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 68,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169328,
+          "lon": 5.722128
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722128,
+            45.169328
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-01-04",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 60000,
+          "numero_voie": "12",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0098",
+          "lot_1": "1",
+          "surface_lot_1": 45.22,
+          "lot_2": "16",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 45,
+          "nombre_pieces_principales": 2,
+          "lat": 45.169328,
+          "lon": 5.722128
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722128,
+            45.169328
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-05-31",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 90000,
+          "numero_voie": "14",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0088",
+          "lot_1": "12",
+          "surface_lot_1": 53.51,
+          "nombre_lots": "1",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 53,
+          "nombre_pieces_principales": 2,
+          "lat": 45.169186,
+          "lon": 5.72187
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.72187,
+            45.169186
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-03-30",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 97270,
+          "numero_voie": "8",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "160",
+          "lot_2": "185",
+          "surface_lot_2": 55.96,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 61,
+          "nombre_pieces_principales": 3,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-09-27",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 86470,
+          "numero_voie": "8",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "171",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-09-27",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 86470,
+          "numero_voie": "8",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "206",
+          "nombre_lots": "1",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 16,
+          "nombre_pieces_principales": 1,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-09-27",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 100000,
+          "numero_voie": "8",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "170",
+          "lot_2": "204",
+          "surface_lot_2": 66.46,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-11-21",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 12500,
+          "numero_voie": "4",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "261",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-09-27",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 86470,
+          "numero_voie": "8",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "171",
+          "lot_2": "206",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 47,
+          "nombre_pieces_principales": 3,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-03-14",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 100000,
+          "numero_voie": "4",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "104",
+          "lot_2": "139",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-08-21",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 70125,
+          "numero_voie": "8",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "156",
+          "lot_2": "192",
+          "surface_lot_2": 65.77,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-05-22",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 143000,
+          "numero_voie": "4",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "251",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-05-22",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 143000,
+          "numero_voie": "4",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "130",
+          "surface_lot_1": 66.6,
+          "lot_2": "96",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-09-25",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 90000,
+          "numero_voie": "8",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "265",
+          "nombre_lots": "1",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 13,
+          "nombre_pieces_principales": 1,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-10-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 83000,
+          "numero_voie": "4",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "126",
+          "surface_lot_1": 67.15,
+          "lot_2": "92",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-09-27",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 83000,
+          "numero_voie": "8",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "147",
+          "lot_2": "201",
+          "surface_lot_2": 56.6,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 62,
+          "nombre_pieces_principales": 3,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-08-10",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 38000,
+          "numero_voie": "8",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "264",
+          "nombre_lots": "1",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 16,
+          "nombre_pieces_principales": 1,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-07-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 94250,
+          "numero_voie": "6",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "26",
+          "lot_2": "60",
+          "surface_lot_2": 65.87,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-06-05",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 85000,
+          "numero_voie": "10",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "221",
+          "lot_2": "232",
+          "surface_lot_2": 55.28,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 62,
+          "nombre_pieces_principales": 3,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-05-12",
+          "nature_mutation": "Adjudication",
+          "valeur_fonciere": 66000,
+          "numero_voie": "8",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "178",
+          "lot_2": "214",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-10-28",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 106050,
+          "numero_voie": "4",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "130",
+          "surface_lot_1": 66.6,
+          "lot_2": "96",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-10-28",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 106050,
+          "numero_voie": "4",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "251",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2016-12-02",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 17000,
+          "numero_voie": "4",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "253",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-01-20",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 97400,
+          "numero_voie": "8",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "178",
+          "lot_2": "214",
+          "surface_lot_2": 67.02,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-01-17",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 57000,
+          "numero_voie": "4",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "112",
+          "lot_2": "87",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 62,
+          "nombre_pieces_principales": 3,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2019-02-01",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 78000,
+          "numero_voie": "4",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "EO",
+          "numero_plan": "38185000EO0085",
+          "lot_1": "122",
+          "surface_lot_1": 67.74,
+          "lot_2": "85",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 70,
+          "nombre_pieces_principales": 4,
+          "lat": 45.169657,
+          "lon": 5.722032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.722032,
+            45.169657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-01-17",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 52000,
+          "numero_voie": "20",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "100",
+          "lot_2": "130",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 31,
+          "nombre_pieces_principales": 1,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-12-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 121000,
+          "numero_voie": "22",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "16",
+          "lot_2": "33",
+          "surface_lot_2": 70.91,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 69,
+          "nombre_pieces_principales": 3,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-02-17",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 71755,
+          "numero_voie": "20",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "118",
+          "lot_2": "127",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 29,
+          "nombre_pieces_principales": 2,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-02-17",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 172000,
+          "numero_voie": "22",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "22",
+          "surface_lot_1": 96.14,
+          "lot_2": "9",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 99,
+          "nombre_pieces_principales": 5,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-09-07",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 11000,
+          "numero_voie": "22",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "274",
+          "surface_lot_1": 8,
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-07-11",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 136200,
+          "numero_voie": "20",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "106",
+          "lot_2": "134",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 89,
+          "nombre_pieces_principales": 4,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2018-07-11",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 13000,
+          "numero_voie": "22",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "273",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-07-15",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 125000,
+          "numero_voie": "3",
+          "type_voie": "RUE",
+          "code_voie": "5945",
+          "voie": "RENE LESAGE",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "255",
+          "lot_2": "263",
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 89,
+          "nombre_pieces_principales": 4,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2015-10-21",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 173000,
+          "numero_voie": "20",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "104",
+          "lot_2": "143",
+          "surface_lot_2": 83.24,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 89,
+          "nombre_pieces_principales": 4,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2017-12-28",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 90000,
+          "numero_voie": "20",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "101",
+          "lot_2": "121",
+          "surface_lot_2": 69.43,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 69,
+          "nombre_pieces_principales": 3,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-07-23",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 13000,
+          "numero_voie": "22",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "291",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-06-13",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 160000,
+          "numero_voie": "20",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "119",
+          "lot_2": "128",
+          "surface_lot_2": 86.13,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 89,
+          "nombre_pieces_principales": 4,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-01-30",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 124000,
+          "numero_voie": "22",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "17",
+          "lot_2": "27",
+          "surface_lot_2": 71.27,
+          "nombre_lots": "2",
+          "code_type_local": "2",
+          "type_local": "Appartement",
+          "surface_relle_bati": 69,
+          "nombre_pieces_principales": 3,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "numero_disposition": "000001",
+          "date_mutation": "2014-06-13",
+          "nature_mutation": "Vente",
+          "valeur_fonciere": 160000,
+          "numero_voie": "20",
+          "type_voie": "AV",
+          "code_voie": "4290",
+          "voie": "LEON BLUM",
+          "code_postal": "38100",
+          "commune": "GRENOBLE",
+          "code_departement": "38",
+          "code_commune": "38185",
+          "section": "HN",
+          "numero_plan": "38185000HN0066",
+          "lot_1": "293",
+          "nombre_lots": "1",
+          "code_type_local": "3",
+          "type_local": "Dépendance",
+          "surface_relle_bati": 0,
+          "nombre_pieces_principales": 0,
+          "lat": 45.168733,
+          "lon": 5.721432
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.721432,
+            45.168733
+          ]
+        }
+      }
+    ]
+  },
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "application/json; charset=UTF-8"
+  },
+  "config": {
+    "url": "http://api.cquest.org/dvf?lat=45.17&lon=5.72&dist=200",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1
+  },
+  "request": {}
+}

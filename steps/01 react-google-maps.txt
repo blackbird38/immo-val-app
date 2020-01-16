@@ -1,0 +1,12 @@
+npm install react-google-maps
+https://github.com/tomchentw/react-google-maps
+
+get a Google Maps API key, Maps JavaScript API:
+https://console.developers.google.com/
+
+googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=yourApiKey`
+(replace yourapiKey with your own key)
+
+react-google-maps is deprecated, will use google-maps-react instead
+
+npm uninstall react-google-maps

@@ -1,0 +1,22 @@
+sending the info associated to the clicked pin, to the parent, so it can display info
+App.js:
+ <GoogleApiWrapper callback={this.getClicked} />
+ getClicked = (message) => { console.log('this message is sent from the parent but following a click from child map', message)}
+
+ ImmoValMap.js
+ added new prop state:  clickedImmo: {}
+ added to  <Marker new prop: immoData={marker} //maybe not ideal but need to pass the clicked immo info to the parent;
+ onMarkerClick : (updating the state and calling parent's method while passing it)
+    set state:  clickedImmo: marker.immoData
+    this.props.callback(this.state.clickedImmo);
+
+------
+    will use the same callback prop to get back the data from the map (child) when user moves the center
+    and new data is fetched.
+    the function getData will check if what's sent to it is from click or from moving map and will update the
+    state accordingly
+
+
+
+
+
