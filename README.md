@@ -1,4 +1,6 @@
-(in progress!)
+![alt text](https://1.bp.blogspot.com/-fw3aUtk9nhc/XiCkFFNXhRI/AAAAAAAAAGs/SzSPt76MISQOk_Hiq1qFEoBlABAvk0UtACLcBGAsYHQ/s1600/mockup-immoval.png)
+
+## IMMOVAL - a React app using Google Maps API and micro-API DVF 
 
 ## get a Google Maps API key, Maps JavaScript API:
 https://console.developers.google.com/
